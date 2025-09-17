@@ -1,0 +1,13 @@
+pdf-gui-parser/src/.env
+cv.docx
+cv.md
+coverletter.md
+coverletter.docx
+pdf-gui-parser/src/gui/prev.txt
+pdf-gui-parser/src/gui/cv.txt
+prev.txt
+pdf-gui-parser/src/pdf/test.pdf
+pdf-gui-parser/src/pdf/test.txt
+pdf-gui-parser/src/pdf/__pycache__/parser.cpython-311.pyc
+pdf-gui-parser/src/pdf/__pycache__/converter.cpython-311.pyc
+pdf-gui-parser/src/gui/__pycache__/app.cpython-311.pyc
